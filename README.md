@@ -16,6 +16,7 @@ The goal of this dashboard is to move beyond simple reporting and provide action
 
 ### Page 1: Campaign Performance (The "What")
 <img src="Screenshots/1_Campaign_Performance.png" alt="Campaign Performance Dashboard" width="800">
+
 * **Executive KPIs:** High-level view of Total Revenue ($1M), Top Product Categories (Wine: $681K), and volume metrics.
 * **Campaign Analysis:** Comparative analysis of 6 distinct marketing campaigns.
 * **Category Insights:** Detailed breakdown showing "Wine" as the dominant revenue driver across all campaigns, with a "Meat" secondary grouping.
@@ -23,6 +24,7 @@ The goal of this dashboard is to move beyond simple reporting and provide action
 
 ### Page 2: Buyer Composition (The "Who")
 <img src="Screenshots/2_Buyer_Composition.png" alt="Buyer Composition Dashboard" width="800">
+
 * **Demographic Profiling:** Visualizations covering Marital Status, Education Level, and Household Composition (Kids/Teens).
 * **Advanced Statistical Charts:**
     * **Salary Distribution:** Used Error Bars to visualize the Min/Max salary range per campaign, offering a deeper view than simple averages.
@@ -31,6 +33,7 @@ The goal of this dashboard is to move beyond simple reporting and provide action
 
 ### Page 3: Purchase Drivers (The "Why")
 <img src="Screenshots/3_Purchase_Drivers.png" alt="Purchase Drivers Dashboard" width="800">
+
 * **AI-Powered Analytics:** Utilized Power BI's **Key Influencers** visual to run regression analysis on the fly.
 * **Predictive Insights:**
     * Identified that customers with income **<$44k** are nearly **2x** more likely to engage with Campaign 6.
